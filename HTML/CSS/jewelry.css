@@ -1,0 +1,75 @@
+.body{
+    height: fit-content;
+    width: 100%;
+
+}
+.new .card:hover {
+    transform: scale(1.1);
+    transition: 0.1 ease;
+    margin-top: 30px;
+    /* background-color: red; */
+  }
+  .fake .card:hover {
+    transform: scale(1.1);
+    transition: 0.1 ease;
+    /* margin-top: 29px; */
+    /* background-color: red; */
+  }
+  .demy .card:hover {
+    transform: scale(1.1);
+    transition: 0.1 ease;
+    margin-top: 30px;
+    /* background-color: red; */
+  }
+  .david .card:hover {
+    transform: scale(1.1);
+    transition: 0.1 ease;
+    margin-top: 40px;
+    /* background-color: red; */
+  }
+.new{
+    display: flex;
+    /* margin-left: 20px; */
+    justify-content: space-between;
+    margin-top: 30px;
+   }
+   .fake{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+   }
+   .demy{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+   }
+   .david{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+   }
+   .mam{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    /* margin-left: 30px; */
+   }
+   @media (max-width:360px) {
+    .new{
+        display: block;
+        width: 100%;
+    }
+    .fake{
+        display: block;
+        width: 100%;
+    }
+    .david{
+        display: block;
+        width: 100%;
+    }
+    .demy{
+        display: block;
+        width: 100%;
+    }
+    
+   }

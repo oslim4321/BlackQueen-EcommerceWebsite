@@ -1,0 +1,164 @@
+.body {
+  width: 100%;
+  height: fit-content;
+  margin: 0, 30px;
+  /* background-color: red; */
+}
+.love {
+  /* font-size: 25px; */
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  height: 50px;
+  width: 200px;
+  margin-left: 18%;
+  margin-top: 10px;
+
+  /* padding: 30px; */
+  /* left:20px; */
+}
+.finish {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  height: 50px;
+  width: 200px;
+  margin-left: 18%;
+  margin-top: 10px;
+}
+.demy {
+  margin-top: 40px;
+}
+.tee {
+  font-size: 30px;
+  margin-left: 17%;
+  margin-top: 10px;
+}
+.help {
+  color: lightblue;
+  margin-left: 17%;
+}
+.button {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  height: 50px;
+  width: 200px;
+  margin-left: 18%;
+  margin-top: 10px;
+}
+.web {
+  margin-top: 40px;
+}
+.access {
+  font-size: 30px;
+  margin-left: 16%;
+  margin-top: 10px;
+}
+.fash {
+  color: lightblue;
+}
+.move {
+  margin-top: 40px;
+}
+.nawa {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 50px;
+  width: 200px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  margin-left: 18%;
+  margin-top: 10px;
+}
+.garden {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 20%;
+}
+.increase {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  /* border-radius: 20px, 20px, 20px, 20px; */
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  border: 0px;
+  color: black;
+  height: 50px;
+  width: 200px;
+  margin-left: 18%;
+  margin-top: 1%;
+}
+.maison {
+  color: lightblue;
+  margin-left: 20%;
+}
+.wonder {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 5px;
+  font-size: 20px;
+  height: 50px;
+  width: 200px;
+  margin-left: 18%;
+  margin-top: 1%;
+}
+.src {
+  margin-top: 40px;
+}
+.rose {
+  font-size: 30px;
+  margin-left: 16%;
+  margin-top: 10px;
+}
+.color {
+  color: lightblue;
+  margin-left: 17%;
+}
+.hate {
+  margin-top: 40px;
+}
+.ant {
+  font-size: 30px;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+.women {
+  color: lightblue;
+  margin-left: 10%;
+}
+
+.zone {
+  font-size: 30px;
+  margin-left: 20%;
+  margin-top: 10px;
+}
+.men {
+  color: lightblue;
+  font-size: 15px;
+  margin-left: 20%;
+}
+.money {
+  margin-top: 40px;
+}
